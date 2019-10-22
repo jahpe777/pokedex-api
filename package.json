@@ -9,7 +9,7 @@
     "dev": "nodemon server.js"
   },
   "keywords": [],
-  "engines" : {
+  "engines": {
     "node": "v10.16.2"
   },
   "author": "",
